@@ -1,0 +1,39 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.turbo/
+.next/
+dist/
+build/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env & secrets
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Contracts / Hardhat
+cache/
+artifacts/
+typechain/
+
+# The Graph
+subgraph/generated/
+subgraph/build/
+
+# Local files that must NEVER be committed
+github_accounts.csv
+project_description.txt
+
+
