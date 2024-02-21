@@ -1,0 +1,15 @@
+{
+  "name": "stepseal",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/web",
+    "apps/backend",
+    "contracts",
+    "subgraph"
+  ],
+  "scripts": {
+    "dev:web": "next dev -p 3000 -w apps/web",
+    "dev:backend": "node apps/backend/src/server.js"
+  }
+}
