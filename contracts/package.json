@@ -1,0 +1,11 @@
+{
+  "name": "stepseal-contracts",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"tests TBD\""
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
