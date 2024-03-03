@@ -1,0 +1,4 @@
+const express = require('express');
+const app = express();
+app.get('/health', (_, res) => res.json({ ok: true }));
+app.listen(4000, () => console.log('API listening on :4000'));

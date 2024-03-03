@@ -1,0 +1,11 @@
+{
+  "name": "stepseal-backend",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
