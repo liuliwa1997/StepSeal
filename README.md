@@ -63,3 +63,9 @@ This repository is structured as a monorepo with web DApp, smart contracts, back
 - contracts: Hardhat
 - apps/backend: Express API
 - subgraph: The Graph manifest
+
+## Monorepo Layout
+- apps/web: Next.js DApp
+- contracts: Hardhat
+- apps/backend: Express API
+- subgraph: The Graph manifest
