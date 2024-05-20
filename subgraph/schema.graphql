@@ -1,1 +1,3 @@
 type CheckInSubmitted @entity { id: ID!, user: Bytes!, taskId: BigInt!, timestamp: BigInt! }
+
+ type TaskCreated @entity { id: ID!, taskId: BigInt!, owner: Bytes!, durationDays: Int! }
