@@ -70,3 +70,5 @@ export const Note = () => <p>Track your habits on-chain.</p>;
 export const Note = () => <p>Track your habits on-chain.</p>;
 
 export const Note = () => <p>Track your habits on-chain.</p>;
+
+export const Note = () => <p>Track your habits on-chain.</p>;
