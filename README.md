@@ -93,3 +93,7 @@ This repository is structured as a monorepo with web DApp, smart contracts, back
 - contracts: Hardhat
 - apps/backend: Express API
 - subgraph: The Graph manifest
+
+## Testing
+- Contracts: Hardhat (placeholder)
+- Backend: Simple endpoint checks
