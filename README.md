@@ -97,3 +97,6 @@ This repository is structured as a monorepo with web DApp, smart contracts, back
 ## Testing
 - Contracts: Hardhat (placeholder)
 - Backend: Simple endpoint checks
+
+## Documentation
+Refer to contract and API folders for details.
